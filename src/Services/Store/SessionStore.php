@@ -12,7 +12,7 @@ class SessionStore implements StoreContract {
      *
      * @var  string $prefix
      */
-    protected $prefix = 'bb_auth_';
+    protected $prefix = 'tgp_auth_';
 
     /**
      * Set item to the store.
